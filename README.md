@@ -1,5 +1,5 @@
 # Visualizing Cape Town water
 
-<a href='http://www.andrewarderne.com/Water_vis/graph> Graph
+Graph:http://www.andrewarderne.com/Water_vis/graph
 
-Add ways to add and compare.
+
